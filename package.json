@@ -4,7 +4,7 @@
   "description": "deepak personal portfolio",
   "main": "index.js",
   "scripts": {
-    "start": "index.html"
+    "start": "public_html/index.html"
   },
   "repository": {
     "type": "git",

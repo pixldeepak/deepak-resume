@@ -1,0 +1,19 @@
+{
+  "name": "deepak-resume",
+  "version": "1.0.0",
+  "description": "deepak personal portfolio",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixldeepak/deepak-resume.git"
+  },
+  "author": "Deepak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pixldeepak/deepak-resume/issues"
+  },
+  "homepage": "https://github.com/pixldeepak/deepak-resume#readme"
+}
